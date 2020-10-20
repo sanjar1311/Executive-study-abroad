@@ -191,6 +191,10 @@ img {
   padding: 100px 0;
 }
 
+.images img{
+  display: block;
+}
+
 .slider {
   display: flex;
   align-items: center;
@@ -213,6 +217,11 @@ img {
   height: 18px;
 }
 
+        /* JASUR AKA */
+
+
+
+        /* ABDUQODR */
 
 
 
